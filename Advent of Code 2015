@@ -1,0 +1,109 @@
+Advent of Code 2015
+
+Day-01
+Length of instructions is 7000
+I am now on Floor 232
+I am now on Floor -1 at step 1783
+
+Day-02
+Length is 1000
+Part 1--Total Surface area is 1586300
+Part 2--Total Ribbon Length is 3737498
+
+Day-03
+Length of Intruction is 8192
+Part 1--Santa visited 2592 houses and is at location 41, 95
+Part 2--Santa and Robo-Santa visited 2360 houses and
+		Santa is at location 3, 71, and
+		Robo-Santa is at location 38, 24
+
+Day-04
+Puzzle Input is (iwrupvqb)
+Day 04, Part 1--346386
+Day 04, Part 2--9958218
+
+Day-05
+Day 05, Part 1--Number of nice strings is 236
+Day 05, Part 2--Number of nice strings is 51
+
+ Day-06
+Day 06, Part 1--Total lights is 543903
+Day 06, Part 2--Total brightness 14687245
+
+Day-07
+Day7, Part 1--Wire a: 3176
+Day7, Part 2--Revised Wire a: 14710
+
+Day-08
+Day 08, Part 1--Total Raw - Total Memory = 1371
+Day 08, Part 2--End Length - Start Length = 2117
+
+Day-09
+Shortest route is ('Straylight', 'Arbre', 'Tristram', 'Norrath', 'Snowdin', 'Tambi', 'AlphaCentauri', 'Faerun'), Distance = 117
+Longest route is ('Tambi', 'Arbre', 'Faerun', 'Norrath', 'AlphaCentauri', 'Straylight', 'Tristram', 'Snowdin'), Distance = 909
+
+Day-10
+Day 10, Part 1--Length 252594
+Day 10, Part 2—Length 3579328
+
+Day-11
+Day 11, Part 1--Next valid password is hxbxxyzz
+Day 11, Part 2--Next valid password is hxcaabcc
+
+Day-12
+Day 12, Part 1--Sum of list is 119433
+Day 12, Part 2--Sum of list is 68466
+You can convert the second part to the first part by replacing [[^\[]*\"red\"[^\[]*] with 0
+
+Day-13
+Day 13, Part 1--Total change in happiness is 618
+Day 13, Part 2--Total change in happiness is 601
+
+Day-14
+Day 14, Part 1--At the end of 2503 seconds, Vixen has travelled 2660 km
+Day 14, Part 2--At the end of 2503 seconds, Blitzen has travelled 1256 points
+
+Day-15
+Day 15, Part 1--Best score is 21367368
+Day 15, Part 2--Best score is 1766400
+
+Day-16
+Day 16, Part 1--Sue 213: children: 3, goldfish: 5, vizslas: 0
+Day 16, Part 2--Sue 323: perfumes: 1, trees: 6, goldfish: 0
+
+Day-17
+Day 17, Part 1--Total combinations of containers to hold 150 liters is 654
+Day 17, Part 2--Minimum combinations of containers to hold 150 liters is 57
+
+Day-18
+Day 18, Part 1--After 100, 1061 lights are ON
+Day 18, Part 2--After 100, 1006 lights are ON
+
+Day-19
+Day 19, Part 1--576 distinct molecules created
+Day 19, Part 2--207 to build the molecule requested.
+
+Day-20
+Day 20, Part 1--House 776,160 received 33,611,760 presents.
+Day 20, Part 2--House 786,240 received 33,161,590 presents.
+
+Day-21
+Day 21, Part 1--You need to spend at least 121 gold to win.
+Day 21, Part 2—
+
+Day-22
+???
+???
+
+Day-23
+Day 22, Part 1--Register b has 184
+Day 23, Part 2—Register b has 231
+
+Day-24
+Day 24, Part 1--Best combination is (QE= 10439961859) with Front= [1, 83, 101, 103, 107, 113], Right= [3, 5, 53, 73, 79, 89, 97, 109], Left= [11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 59, 67, 71])
+
+Day24, Part 2--Best combination is (QE= 72050269) with Front= [1, 59, 101, 107, 113], Trunk= [3, 83, 89, 97, 109], Right= [5, 11, 43, 67, 73, 79, 103], Left= [13, 17, 19, 23, 29, 31, 37, 41, 47, 53, 71])
+
+Day-25
+Day 25, Part 1--Code is 8997277
+Day 25, Part 2--No Part 2
